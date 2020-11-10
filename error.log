@@ -1,0 +1,1 @@
+2020-11-06 22:58:11,598 - WARNING - weibo.py[:872] - 系统中可能没有安装pymysql库，请先运行 pip install pymysql ，再运行程序
